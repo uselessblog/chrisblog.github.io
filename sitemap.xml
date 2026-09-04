@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>galleries/index.html</loc>
+              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>galleries/sketches/index.html</loc>
+              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>index.html</loc>
+              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>kontakt.html</loc>
+              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>posts/MCs-Musikkassetten.html</loc>
+              <lastmod>2026-09-04 19:57:31 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>posts/a-new-adventure.html</loc>
+              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>posts/black-out-buch.html</loc>
+              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>posts/dog-stars.html</loc>
+              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>tags/index.html</loc>
+              <lastmod>2026-09-04 19:57:31 UTC</lastmod>
+            </url></urlset>

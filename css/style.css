@@ -1,0 +1,61 @@
+
+/* Font configuration */
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&family=Sono:wght@400&family=Comfortaa:wght@400;700&display=swap");
+
+
+/* Font stacks as CSS custom properties */
+:root {
+    --font-sans: "Quicksand", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --font-mono: "Sono", 'Fira Code', 'SF Mono', Consolas, monospace;
+    --font-display: "Comfortaa", sans-serif;
+    --font-heading: "Comfortaa", sans-serif;
+    --font-emoji: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", sans-serif;
+}
+
+/* Base16 color scheme integration for Nicolino
+   Generated from: Default Dark (dark) and Default Light (light)
+   Authors: Chris Kempson (http://chriskempson.com) / Chris Kempson (http://chriskempson.com) */
+
+/* Theme: Default Dark */
+
+[data-theme=dark] {
+    --b16-base00: #181818; /* Default background */
+    --b16-base01: #282828; /* Lighter background */
+    --b16-base02: #383838; /* Selection background */
+    --b16-base03: #585858; /* Comments, secondary */
+    --b16-base04: #b8b8b8; /* Darker foreground */
+    --b16-base05: #d8d8d8; /* Default foreground */
+    --b16-base06: #e8e8e8; /* Lighter foreground */
+    --b16-base07: #f8f8f8; /* Lightest foreground */
+    --b16-base08: #ab4642; /* Variables, etc */
+    --b16-base09: #dc9656; /* Integers, constants */
+    --b16-base0A: #f7ca88; /* Classes, search match */
+    --b16-base0B: #a1b56c; /* Strings */
+    --b16-base0C: #86c1b9; /* Support, regex */
+    --b16-base0D: #7cafc2; /* Functions, methods */
+    --b16-base0E: #ba8baf; /* Keywords */
+    --b16-base0F: #a16946; /* Builtin, punctuation */
+}
+
+/* Theme: Default Light */
+
+:root:not([data-theme=dark]),
+[data-theme=light] {
+    --b16-base00: #f8f8f8; /* Default background */
+    --b16-base01: #e8e8e8; /* Lighter background */
+    --b16-base02: #d8d8d8; /* Selection background */
+    --b16-base03: #b8b8b8; /* Comments, secondary */
+    --b16-base04: #585858; /* Darker foreground */
+    --b16-base05: #383838; /* Default foreground */
+    --b16-base06: #282828; /* Lighter foreground */
+    --b16-base07: #181818; /* Lightest foreground */
+    --b16-base08: #ab4642; /* Variables, etc */
+    --b16-base09: #dc9656; /* Integers, constants */
+    --b16-base0A: #f7ca88; /* Classes, search match */
+    --b16-base0B: #a1b56c; /* Strings */
+    --b16-base0C: #86c1b9; /* Support, regex */
+    --b16-base0D: #7cafc2; /* Functions, methods */
+    --b16-base0E: #ba8baf; /* Keywords */
+    --b16-base0F: #a16946; /* Builtin, punctuation */
+}
