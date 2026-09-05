@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[Posts tagged bandcamp]]></title>
+    <description><![CDATA[Posts tagged bandcamp]]></description>
+    <link>https://github.com/ga2mer/rss.cr</link>
+    <generator>RSS for Crystal</generator>
+    <lastBuildDate>2026-09-05 07:57:22 UTC</lastBuildDate>
+    <language><![CDATA[en]]></language>
+    <item>
+      <title><![CDATA[Sleep / Walk / Dream]]></title>
+      <description><![CDATA[<p>Vor einiger Zeit, also Anfang des Jahres, habe ich etwas Musik mit Gitarre und einigen digitalen und analogen Effektgeräten aufgenommen und veröffentlicht.</p>
+
+<p>Das ganze (kurze) Mini-Album ist hier auf der Plattform "Bandcamp" zu finden: <a href="https://shaping-colours.bandcamp.com/music">Sleep / Walk / Dream</a></p>
+
+<p>Man findet es aber aktuell auch auf Spotify.</p>]]></description>
+      <link>/posts/sleeps-walk-dream.html</link>
+      <guid isPermaLink="true">/posts/sleeps-walk-dream.html</guid>
+      <pubDate>2026-09-05 09:48:25 +02:00</pubDate>
+    </item>
+  </channel>
+</rss>
