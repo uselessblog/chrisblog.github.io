@@ -6,13 +6,13 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><url> # ameba:disable Style/MultilineStringLiteral
               <loc>galleries/index.html</loc>
-              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+              <lastmod>2026-09-04 21:31:18 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>galleries/sketches/index.html</loc>
-              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+              <lastmod>2026-09-04 21:31:18 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>index.html</loc>
-              <lastmod>2026-09-04 19:43:20 UTC</lastmod>
+              <lastmod>2026-09-04 21:37:48 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>kontakt.html</loc>
               <lastmod>2026-09-04 19:43:20 UTC</lastmod>
@@ -29,6 +29,12 @@
               <loc>posts/dog-stars.html</loc>
               <lastmod>2026-09-04 19:43:20 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>posts/nicolino.html</loc>
+              <lastmod>2026-09-04 21:33:49 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>posts/snoopy-peanuts.html</loc>
+              <lastmod>2026-09-05 05:56:23 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>tags/index.html</loc>
-              <lastmod>2026-09-04 19:57:31 UTC</lastmod>
+              <lastmod>2026-09-05 05:56:23 UTC</lastmod>
             </url></urlset>
